@@ -1,0 +1,1 @@
+# nayuta-merchandise-management-template
